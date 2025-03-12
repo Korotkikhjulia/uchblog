@@ -49,16 +49,20 @@
 •	Блог корректно отображается на различных устройствах, таких как смартфоны и планшеты.
     <img src="https://github.com/Korotkikhjulia/uchblog/blob/main/public/img/Адаптивный%20дизайн.png">
 <img src="https://github.com/Korotkikhjulia/uchblog/blob/main/public/img/Адаптивный%20дизайн%202.png">
-
 </div>
-
-
-
-
-
-
-
-
+<div>    
+    <p>Для запуска проекта вам понадобится программы и модули данных версий:</p>
+    <p>— php-8.1</p>
+    <p>— composer-2.4</p>
+    <p>— node.js-v20.11.0</p>
+    <p>— vite-5.0.0</p>
+    <p>— mysql-8.0</p>
+    <p>После клонирования проекта обновите composer командой composer update</p>
+    <p>Так же скачайте зависимости node.js Пропишите в терминале npm install, чтобы загрузить node.js и vite. </p>
+    <p>В проекте используется MySQL. Для создания структуры БД (базы данных) используйте команду php artisan migrate </p>
+    <p>Для активации сайта необходимо запустить vite используя команду npm run dev</p>
+    <p>Перейдите на маршрут http://localhost/home</p>
+</div>
 
 
 
